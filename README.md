@@ -1,1 +1,1 @@
-# sass-frontendEBAC
+# Módulos de SASS do curso EBAC
